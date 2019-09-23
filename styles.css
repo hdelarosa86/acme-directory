@@ -1,15 +1,16 @@
 body {
   font-family: sans-serif;
 }
-#container {
-  margin: 0 auto;
-  width: 90%;
-  text-align: center;
-}
 
 span {
   background-color: tomato;
   color: #fff;
+}
+
+#container {
+  margin: 0 auto;
+  width: 90%;
+  text-align: center;
 }
 
 .individual-profile {
